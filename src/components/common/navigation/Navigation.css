@@ -1,0 +1,8 @@
+.nav-link {
+    color: #000000;
+}
+
+.nav-link:hover, .nav-link.selected {
+    color: #ffffff;
+    background-color: #000000;
+}

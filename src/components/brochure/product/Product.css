@@ -1,0 +1,22 @@
+.product {
+    border-bottom: 1px solid #aaaaaa;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.product:hover {
+    background-color: #eeeeee;
+}
+
+.product span.expanded {
+    font-weight: bold;
+}
+
+.product div.details {
+    margin: 5px 0 10px 5px;
+}
+
+.product div.details div.row img {
+    width: 100%;
+    height: auto;
+}
